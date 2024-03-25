@@ -1,0 +1,141 @@
+.india {
+  width: 100%;
+  height: 100%;
+}
+.india img {
+  width: 100%;
+  height: 100%;
+}
+.form-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: #00000000;
+  margin-top: 100px;
+}
+.stillk h2 {
+  margin-left: 560px;
+  align-items: center;
+  margin-top: 30px;
+  font-size: 40px;
+  margin-bottom: -150px;
+  color: #0a79b5;
+}
+
+.form-container form {
+  width: 600px;
+  text-align: center;
+}
+form .input-box {
+  display: flex;
+  justify-content: space-between;
+}
+.input-field .item {
+  width: 100%;
+  padding: 18px;
+  background: transparent;
+  border: 2px solid #0ef;
+  font-weight: bold;
+  outline: none;
+  border-radius: 6px;
+  font-size: 16px;
+  color: #008c4b;
+}
+.input-field::placeholder {
+  color: rgba(255, 255, 255, 0.3);
+}
+form .textarea-field .item {
+  color: #070212;
+  width: 100%;
+  resize: none;
+  outline: none;
+  font-size: 20px;
+  border: 2px solid #0ef;
+}
+form .textarea-field .error-txt {
+  margin-top: -10px;
+  color: #d93025;
+  display: none;
+}
+form button {
+  padding: 12px 32px;
+  background: #0ef;
+  border: none;
+  outline: none;
+  border-radius: 6px;
+  box-shadow: 0 0 10px #0ef;
+  font-size: 16px;
+  color: #333;
+  letter-spacing: 1px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.input-field .error-txt {
+  font-size: 14.5px;
+  color: #d93025;
+  text-align: left;
+  margin: -5px 0 10px;
+  display: none;
+}
+.stillj {
+  width: 100%;
+  height: 100%;
+  /* padding-top: 220px; */
+}
+.stillj img {
+  width: 100%;
+  height: 100%;
+  /* padding: 15px; */
+  /* margin-top: -1050px;
+  margin-bottom: -900px;
+  margin-left: 590px;
+  margin-right: -800px; */
+}
+.foot2 {
+  width: 100%;
+  height: 30vh;
+
+  background: #130134;
+}
+.foot2 img {
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  transform: translate(60px, 38px);
+}
+.foot2 p {
+  color: #ffff;
+  font-size: 30px;
+  align-items: center;
+  display: flex;
+  padding-left: 130px;
+}
+@media screen and (max-width: 768px) {
+  .input-field .item {
+    width: 100%;
+    padding: 8px;
+    background: transparent;
+    border: 2px solid #0ef;
+    font-weight: bold;
+    outline: none;
+    border-radius: 6px;
+    font-size: 16px;
+    color: #008c4b;
+  }
+  .foot2 p {
+    color: #ffff;
+    font-size: 20px;
+    align-items: center;
+    display: flex;
+    padding-left: 115px;
+  }
+  .stillk h2 {
+    margin-left: 200px;
+    align-items: center;
+    margin-top: 30px;
+    font-size: 30px;
+    margin-bottom: -150px;
+    color: #0a79b5;
+  }
+}

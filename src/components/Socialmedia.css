@@ -1,0 +1,16 @@
+a img {
+  width: 45px;
+  transform: translate(900%, -320%);
+  transform: translateY(5px);
+  transform: translateX(500px);
+  border-radius: 20px;
+}
+
+@media screen and (max-width: 768px) {
+  a img {
+    width: 35px;
+    transform: translate(480%, -390%);
+    transform: translateY(2px);
+    transform: translateX(200px);
+  }
+}
