@@ -1,7 +1,7 @@
 import "./App.css";
 import Sample from "../src/components/Sample";
 // import Header from "./components/Header";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import Home from "./components/Home/Home";
 import Image from "./components/Home/Image";
 import Quote from "./components/Quote";
@@ -16,9 +16,15 @@ import Socialmedia from "./components/Socialmedia";
 const App = () => {
   const [currentPage, setcurrentPage] = useState("home");
 
+  // Function to handle navigation
   const handleNavigation = (page) => {
     setcurrentPage(page);
   };
+
+  // Set the initial page to "home" when the application loads
+  useEffect(() => {
+    setcurrentPage("home");
+  }, []);
 
   return (
     <Router>
