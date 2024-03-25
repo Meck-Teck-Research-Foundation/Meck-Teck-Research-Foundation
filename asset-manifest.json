@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Meck-Teck-Research-Foundation/static/css/main.c4acc5bc.css",
+    "main.js": "/Meck-Teck-Research-Foundation/static/js/main.e68fa157.js",
+    "static/js/453.b9e29202.chunk.js": "/Meck-Teck-Research-Foundation/static/js/453.b9e29202.chunk.js",
+    "static/media/simp.mp4": "/Meck-Teck-Research-Foundation/static/media/simp.57af00f0a75dcbee372b.mp4",
+    "static/media/wallcon.jpg": "/Meck-Teck-Research-Foundation/static/media/wallcon.960773ba847b31c13c62.jpg",
+    "static/media/clear.jpg": "/Meck-Teck-Research-Foundation/static/media/clear.0c5b24db1daabff75e37.jpg",
+    "static/media/i1.jpeg": "/Meck-Teck-Research-Foundation/static/media/i1.e74dba330587acbf9fa6.jpeg",
+    "static/media/bk.jpg": "/Meck-Teck-Research-Foundation/static/media/bk.598c4effa7109b92a8f7.jpg",
+    "static/media/i4.jpeg": "/Meck-Teck-Research-Foundation/static/media/i4.1cb02a95dae2a16fdd09.jpeg",
+    "static/media/k1.jpeg": "/Meck-Teck-Research-Foundation/static/media/k1.e886b9725e69574b02f5.jpeg",
+    "static/media/ser.PNG": "/Meck-Teck-Research-Foundation/static/media/ser.dfe88e61679fa4f18da2.PNG",
+    "static/media/Capture.PNG": "/Meck-Teck-Research-Foundation/static/media/Capture.80dec677c63b3a5aa01f.PNG",
+    "static/media/k3.jpeg": "/Meck-Teck-Research-Foundation/static/media/k3.197c175bc0236ddd61ad.jpeg",
+    "static/media/k2.jpeg": "/Meck-Teck-Research-Foundation/static/media/k2.00a64b336148ada7e392.jpeg",
+    "static/media/WHY.png": "/Meck-Teck-Research-Foundation/static/media/WHY.a6025024720c278b2c17.png",
+    "static/media/i2.jpeg": "/Meck-Teck-Research-Foundation/static/media/i2.167d477fe3d6806a0e48.jpeg",
+    "static/media/i3.jpeg": "/Meck-Teck-Research-Foundation/static/media/i3.3c3c47cc4301e8124db6.jpeg",
+    "static/media/d8.jpg": "/Meck-Teck-Research-Foundation/static/media/d8.29e8f147ca4da3ca3b89.jpg",
+    "static/media/d10.jpg": "/Meck-Teck-Research-Foundation/static/media/d10.2b3d24b39050a8e963de.jpg",
+    "static/media/d9.jpg": "/Meck-Teck-Research-Foundation/static/media/d9.90c42c20f46a17ebcdb0.jpg",
+    "static/media/slick.svg": "/Meck-Teck-Research-Foundation/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Meck-Teck-Research-Foundation/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Meck-Teck-Research-Foundation/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "index.html": "/Meck-Teck-Research-Foundation/index.html",
+    "static/media/slick.woff": "/Meck-Teck-Research-Foundation/static/media/slick.295183786cd8a1389865.woff",
+    "main.c4acc5bc.css.map": "/Meck-Teck-Research-Foundation/static/css/main.c4acc5bc.css.map",
+    "main.e68fa157.js.map": "/Meck-Teck-Research-Foundation/static/js/main.e68fa157.js.map",
+    "453.b9e29202.chunk.js.map": "/Meck-Teck-Research-Foundation/static/js/453.b9e29202.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4acc5bc.css",
+    "static/js/main.e68fa157.js"
+  ]
+}
